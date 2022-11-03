@@ -1,0 +1,9 @@
+{
+	"name": "curso-data-factory-1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21ceaa7d-072e-4062-9324-b45833157d71",
+		"tenantId": "b680d4ca-1129-493b-b398-537fcf94a406"
+	}
+}
